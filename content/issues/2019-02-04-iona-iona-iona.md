@@ -2,6 +2,7 @@
 section: issue
 title: Iona Iona Iona
 date: 2019-02-04T13:35:15.250Z
+resolved: true
 resolvedWhen: 2019-02-04T13:35:15.302Z
 severity: disrupted
 ---
